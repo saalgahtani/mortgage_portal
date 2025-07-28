@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)y2#(ba_@e)fgb&m5-4=rq+zbbbh6nw508(p3g7ha=#a=b!3lu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mortgage-portal.onrender.com']
 
 
 # Application definition
